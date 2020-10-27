@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I3ugtbjRCa0eiKG5CsSqOK4wi7O3m2OF2ndQWWXw37jTYc7QAxaywZERGLmcDxvKYZthPOH8IfJ8ku26lp2ZfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\start\\source\\repos\\Maxsign\\Maxsign_Mobile.iOS\\Maxsign_Mobile.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

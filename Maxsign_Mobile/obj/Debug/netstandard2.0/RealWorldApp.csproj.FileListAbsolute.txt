@@ -1,0 +1,14 @@
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\bin\Debug\netstandard2.0\RealWorldApp.deps.json
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\bin\Debug\netstandard2.0\RealWorldApp.dll
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\bin\Debug\netstandard2.0\ref\RealWorldApp.dll
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\bin\Debug\netstandard2.0\RealWorldApp.pdb
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\obj\Debug\netstandard2.0\RealWorldApp.csprojAssemblyReference.cache
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\obj\Debug\netstandard2.0\RealWorldApp.AssemblyInfoInputs.cache
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\obj\Debug\netstandard2.0\RealWorldApp.AssemblyInfo.cs
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\obj\Debug\netstandard2.0\RealWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\obj\Debug\netstandard2.0\RealWorldApp.dll
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\obj\Debug\netstandard2.0\ref\RealWorldApp.dll
+C:\Users\start\source\repos\Ecommerce-Api-master\FoodApi\RealWorldApp\RealWorldApp\obj\Debug\netstandard2.0\RealWorldApp.pdb
